@@ -4,3 +4,5 @@
 
 2. Predict the classes using acrosssub_meta.py (in Python)
 
+![Comparison of proposed approach with competition toppers](https://github.com/saugatbh/BCINER_ErrPDetection/blob/main/result.jpg)
+
